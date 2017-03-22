@@ -1018,7 +1018,7 @@ bg:
     propagate_all_variants: ~
     properties: Свойства
     property: ~
-    prototype: ~
+    prototype: Прототип
     prototypes: Прототипи
     provider: Доставчик
     provider_settings_warning: ~
