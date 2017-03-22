@@ -1259,7 +1259,7 @@ bg:
     taxons: "Таксони"
     test: "Тест"
     test_mailer:
-      test_email: "Тестов мейл адрес"
+      test_email:
         greeting: "Обръщение"
         message: "Съобщение"
         subject: "Относно"
