@@ -68,7 +68,7 @@ bg:
         firstname: "Адрес за доставка -първо име"
         lastname: "Адрес за доставка - фамилия"
         phone: "Адрес за доставка - тел. номер"
-        state: county "Адрес за доставка - община"
+        state: "Адрес за доставка - община"
         zipcode: "Адрес за доставка - пощ. код"
       spree/payment:
         amount: "Сума"
@@ -94,7 +94,7 @@ bg:
         path: "Път"
         starts_at: "Започва на"
         usage_limit: "Лимит"
-      spree/promotion_category: "Категория Промоции"
+      spree/promotion_category:
         name: "Име"
       spree/property:
         name: "Име"
@@ -1304,7 +1304,7 @@ bg:
     user_rule:
       choose_users: "Изберете потребители"
     users: "Потребители"
-    validation: "Валидация"
+    validation:
       cannot_be_less_than_shipped_units: "не може да бъде по-малко от броя на изпратените единици"
       cannot_destroy_line_item_as_inventory_units_have_shipped:
       exceeds_available_stock: "е над наличността. Моля, уверете че избраните покупки имат валидна стойност."
