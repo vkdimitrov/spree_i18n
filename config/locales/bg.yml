@@ -389,7 +389,7 @@ bg:
         account: "Акаунт"
         addresses: "Адреси"
         items: "Продукти"
-        items_purchased: "Поръчани продукти:
+        items_purchased: "Поръчани продукти:"
         order_history: "История на поръчка"
         order_num: "Номер на поръчка"
         orders: "Поръчки"
