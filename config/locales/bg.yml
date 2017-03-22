@@ -313,6 +313,9 @@ bg:
     user_sessions:
       signed_in: "Успешно влизане"
       signed_out: "Успешно излизане"
+    sessions:
+      spree_user:
+        signed_out: "Успешно излизане"
   errors:
     messages:
       already_confirmed: "Вече бе потвърден"
