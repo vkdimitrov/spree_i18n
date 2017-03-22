@@ -152,8 +152,8 @@ bg:
       spree/zone:
         description: "Описание"
         name: "Име"
-    errors: "Грешка"
-      models: "Тип"
+    errors:
+      models:
         spree/calculator/tiered_flat_rate:
           attributes:
             base:
