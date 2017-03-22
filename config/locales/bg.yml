@@ -285,7 +285,7 @@ bg:
       invalid_token: Invalid authentication token.
       locked: "Вашият акаунт е заключен."
       timeout: "Вашата сесия е изтекла, моля влезте повторно."
-      unauthenticated: "Трябва да се впишете или регистрирате преди да продължите"
+      unauthenticated: "За да продължите трябва да влезете в профила си."
       unconfirmed: "Трябва да потвърдите акаунта си преди да продължите."
     mailer:
       confirmation_instructions:
@@ -295,8 +295,8 @@ bg:
       unlock_instructions:
         subject: "Инструкции за отключване"
     oauth_callbacks:
-      failure: Could not authorise you from %{kind} because %{reason}."Не можете да бъдете оторизиран, поради…"
-      success: Successfully authorised from %{kind} account."Успешна оторизация"
+      failure: "Не можете да бъдете оторизиран от %{kind}, поради %{reason}"
+      success: "Влязохте успешно с вашият %{kind} профил"
     unlocks:
       send_instructions: "До няколко минути ще получите имейл с инструкции как да отключите своя акаунт."
       unlocked: "Вашият акаунт бе отключен успешно. Вече сте вписани."
@@ -307,7 +307,7 @@ bg:
         updated: "Вашата парола бе променена успешко. Вече сте вписани."
     user_registrations:
       destroyed: "Вашият акаунт бе отменен успешно. Надяваме се да Ви видим скоро."
-      inactive_signed_up: You have signed up successfully. However, we could not sign you in because your account is %{reason}."Вие се регистрирахте успешно, въпреки това не можете да се логнете в системата, поради…"
+      inactive_signed_up: "Вие се регистрирахте успешно, въпреки това не можете да се логнете в системата, поради %{reason}"
       signed_up: "Вие се регистрирахте успешно."
       updated: "Успешно обновихте своя акаунт."
     user_sessions:
@@ -360,7 +360,7 @@ bg:
     add_stock_management: "Добави управление на стока"
     add_to_cart: "Добави в количката"
     add_variant: "Добави вариант"
-    additional_item: Additional "Цена на артикул"
+    additional_item: "Допълнителен артикул"
     address1: "Адрес"
     address2: "Адрес (продължение)"
     adjustable: "Подходящ"
@@ -373,7 +373,7 @@ bg:
     admin:
       tab:
         configuration: "Конфигурация"
-        option_types: "Възможности"
+        option_types: "Тип варианти"
         orders: "Поръчки"
         overview: "Прегледай"
         products: "Продукти"
@@ -382,8 +382,8 @@ bg:
         properties: "Свойства"
         prototypes: "Прототипи"
         reports: "Доклади"
-        taxonomies: "Таксономии"
-        taxons: "Таксони"
+        taxonomies: "Категории"
+        taxons: "Категория"
         users: "Потребители"
       user:
         account: "Акаунт"
@@ -418,9 +418,9 @@ bg:
     analytics_desc_list_4:
     analytics_trackers:
     and: "и"
-    approve: "Одобри"
-    approved_at: ""Одобрено на"
-    approver: "Одобрил"
+    approve: "Потвърди"
+    approved_at: "Потвърдена на"
+    approver: "Потвърдена от"
     are_you_sure: "Сигурни ли сте"
     are_you_sure_delete: "Сигурни ли сте, че искате да изтриете този запис?"
     associated_adjustment_closed:
@@ -430,8 +430,8 @@ bg:
     auto_capture: "Автоматично улавяне"
     available_on: "Достъпно на"
     average_order_value: "Средна стойност на поръчка"
-    avs_response:
-    back: "Обратно"
+    avs_response: "Avs валидация"
+    back: "Назад"
     back_end: "Обратно до края"
     back_to_payment: "Обратно към плащане"
     back_to_resource_list: "Обратно към източника на данните"
@@ -467,7 +467,7 @@ bg:
     card_type: "Тип карта"
     card_type_is: "Видът на картата"
     cart: "Количка"
-    cart_subtotal: "Междинна сметка"
+    cart_subtotal: "Междинна сума"
     categories: "Категории"
     category: "Категория"
     charged: "Сумата е удържана"
@@ -497,7 +497,7 @@ bg:
     continue: "Продължи"
     continue_shopping: "Продължи пазаруването"
     cost_currency: "Валута"
-    cost_price: "Цена"
+    cost_price: "Визуализирана цена"
     could_not_connect_to_jirafe:
     could_not_create_customer_return:
     could_not_create_stock_movement:
@@ -581,7 +581,7 @@ bg:
     display_currency:
     doesnt_track_inventory:
     edit: "Промени"
-    editing_resource:
+    editing_resource: "Редактиране"
     editing_rma_reason:
     editing_user: "Редактиране на профил"
     eligibility_errors:
@@ -806,7 +806,7 @@ bg:
     no_pending_payments: "Няма настоящи плащания"
     no_products_found: "Няма открити пордукти"
     no_resource_found: "Няма открити ресурси"
-    no_results: "Няма резилтати"
+    no_results: "Няма резултати"
     no_returns_found:
     no_rules_added: "Никакви правила прибавени"
     no_shipping_method_selected:
@@ -942,7 +942,7 @@ bg:
     process: "Продукт"
     product: Product
     product_details: "Информация за продукта"
-    product_has_no_description: "Няма описание за продукта"
+    product_has_no_description: "Продуктът няма описание"
     product_not_available_in_this_currency:
     product_properties: "Свойства на продукта"
     product_rule:
@@ -1170,7 +1170,7 @@ bg:
     ssl:
       change_protocol:
     start: "Старт"
-    state: "Състояние"
+    state: "Област"
     state_based:
     state_machine_states:
       accepted: "Приета поръчка"
@@ -1239,7 +1239,7 @@ bg:
     tax_included: "Включени данъци"
     tax_rate_amount_explanation: "Обяснения относно данъчната ставка"
     tax_rates: "Данъчна ставка"
-    taxon: "Таксон"
+    taxon: "Категория"
     taxon_edit: "Промени таксон"
     taxon_placeholder: "Добави таксон"
     taxon_rule:
@@ -1247,8 +1247,8 @@ bg:
       label:
       match_all:
       match_any:
-    taxonomies: "Таксономии"
-    taxonomy: "Таксономия"
+    taxonomies: "Категории"
+    taxonomy: "Категория"
     taxonomy_edit: "Промени таксономия"
     taxonomy_tree_error:
     taxonomy_tree_instruction:
