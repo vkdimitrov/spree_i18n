@@ -506,7 +506,7 @@ bg:
     country: "Страна"
     country_based:
     country_name: "Име"
-    country_names: "Имена"
+    country_names:
       CA: "Канада"
       FRA: "Франция"
       ITA: "Италия"
