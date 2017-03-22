@@ -291,7 +291,7 @@ bg:
       confirmation_instructions:
         subject: "Инструкции за потвърждаване"
       reset_password_instructions:
-        subject: Reset password instructions "Инструкции за смяна на паролата"
+        subject: "Инструкции за смяна на паролата"
       unlock_instructions:
         subject: "Инструкции за отключване"
     oauth_callbacks:
