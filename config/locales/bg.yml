@@ -668,10 +668,14 @@ bg:
     hide_cents: Hide pence
     home: "Начало"
     i18n:
-      available_locales: "Достъпни места"
+      available_locales: "Достъпни езици"
       language: "Език"
       localization_settings: "Настройки за локализация"
       this_file_language: "Български (БГ)"
+      translations: "Преводи"
+      supported_locales: "Поддържани езици"
+      fields: "Полета"
+      select_locale: "Избери езици"
     icon: "Икона"
     identifier:
     image: "Образ"
@@ -1154,9 +1158,9 @@ bg:
     shipping_total: "Цена на доставка"
     shop_by_taxonomy: "%{taxonomy}"
     shopping_cart: "Количка"
-    show:
-    show_active:
-    show_deleted:
+    show: "Покажи"
+    show_active: "Активни"
+    show_deleted: "Изтрити"
     show_only_complete_orders:
     show_only_considered_risky:
     show_rate_in_label:
