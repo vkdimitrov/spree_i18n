@@ -294,6 +294,9 @@ bg:
         subject: "Инструкции за смяна на паролата"
       unlock_instructions:
         subject: "Инструкции за отключване"
+    sessions:
+      spree_user:
+        signed_out: "Успешно излизане"
     oauth_callbacks:
       failure: "Не можете да бъдете оторизиран от %{kind}, поради %{reason}"
       success: "Влязохте успешно с вашият %{kind} профил"
@@ -313,9 +316,7 @@ bg:
     user_sessions:
       signed_in: "Успешно влизане"
       signed_out: "Успешно излизане"
-    sessions:
-      spree_user:
-        signed_out: "Успешно излизане"
+
   errors:
     messages:
       already_confirmed: "Вече бе потвърден"
