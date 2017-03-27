@@ -618,7 +618,7 @@ bg:
         no_shipping_methods_available: "Няма възможност за изпращане по куриер до избраната локация, моля сменете адреса си и пробвайте пак."
     errors_prohibited_this_record_from_being_saved:
       one: "Грешка попречи на тези дани да бъдат записани."
-      other: "%{count} errors prohibited this record from being saved"
+      other: "%{count} грешки предоотвратиха запазването"
     event: Събитие
     events:
       spree:
@@ -850,7 +850,7 @@ bg:
     or_over_price: "%{price} или повече"
     order: ~
     order_adjustments: "Допълнителни корекции на поръчка"
-    order_already_updated: ~
+    order_already_updated: "Поръчката вече беше обновена"
     order_approved: "Поръчката е одобрена"
     order_canceled: "Поръчката е отказана"
     order_details: ~
@@ -1018,7 +1018,7 @@ bg:
     propagate_all_variants: ~
     properties: Свойства
     property: ~
-    prototype: ~
+    prototype: Прототип
     prototypes: Прототипи
     provider: Доставчик
     provider_settings_warning: ~
