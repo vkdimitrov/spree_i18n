@@ -618,7 +618,7 @@ bg:
         no_shipping_methods_available: "Няма възможност за изпращане по куриер до избраната локация, моля сменете адреса си и пробвайте пак."
     errors_prohibited_this_record_from_being_saved:
       one: "Грешка попречи на тези дани да бъдат записани."
-      other: "%{count} грешки предоотвратиха запазването на %{resource}"
+      other: "%{count} грешки предоотвратиха запазването"
     event: Събитие
     events:
       spree:
