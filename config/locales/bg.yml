@@ -464,7 +464,7 @@ bg:
     cannot_create_returns: "Не можете да върнете стока обратно преди поръчката да е пусната."
     cannot_perform_operation: "Желаното действие не може да бъде извършено."
     cannot_set_shipping_method_without_address: "Начин за доставка не може да бъде зададен без данни на клиента."
-    capture: Картина
+    capture: Взимане
     capture_events: ~
     card_code: "Код на карта CVV"
     card_number: "Номер на карта"
