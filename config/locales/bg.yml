@@ -560,7 +560,7 @@ bg:
         site_id: ~
         token: ~
       jirafe_settings_updated: ~
-    date: ~
+    date: "Дата"
     date_completed: ~
     date_picker:
       first_day: 0
