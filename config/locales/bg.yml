@@ -874,7 +874,7 @@ bg:
         total: Общо
     order_not_found: ~
     order_number: "Код на поръчката %{number}"
-    order_processed_successfully: "Поръчката беше приета успешно"
+    order_processed_successfully: "Поръчката беше приета успешно и изпратена на вашия e-mail"
     order_resumed: ~
     order_state:
       address: Адрес
