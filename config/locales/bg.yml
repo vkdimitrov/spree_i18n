@@ -666,7 +666,7 @@ bg:
     google_analytics: "Google Аналитика"
     google_analytics_id: "Идентифиционен номер на аналитиката"
     guest_checkout: "Каса за гости"
-    guest_user_account: "Маркирай като гост."
+    guest_user_account: "Влез като гост."
     has_no_shipped_units: "Няма пратени единици."
     height: Височина
     hide_cents: "Hide pence"
