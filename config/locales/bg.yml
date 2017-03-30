@@ -1039,7 +1039,7 @@ bg:
     refund_reasons: ~
     refunded_amount: ~
     refunds: ~
-    register: "Регистрирай се като нов потребител"
+    register: "Регистрация"
     registration: Регистрация
     reimburse: ~
     reimbursed: ~
