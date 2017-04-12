@@ -967,45 +967,45 @@ bg:
     promotion_action: ~
     promotion_action_types:
       create_adjustment:
-        description: ~
-        name: ~
+        description: Намалява стойността на цялата поръчката
+        name: Намалява цялата поръчка
       create_item_adjustments:
-        description: ~
-        name: ~
+        description: Намалява стойността на един продукт от поръчката
+        name: Нямалява цената продукт
       create_line_items:
-        description: ~
-        name: ~
+        description: Добавя определен продукт с количество към поръчката
+        name: Добавя продукт
       free_shipping:
-        description: ~
-        name: ~
-    promotion_actions: ~
+        description: Безплатна доставка
+        name: Безплатна доставка
+    promotion_actions: Промоционални действия
     promotion_form:
       match_policies:
-        all: ~
-        any: ~
-    promotion_rule: ~
+        all: Всички правила трябва да са изпълнени
+        any: Едно правило трябва да е изпълнено
+    promotion_rule: Правило за промоция
     promotion_rule_types:
       first_order:
-        description: ~
-        name: ~
+        description: Трябва да бъде първата поръчка на потребителя
+        name: Първа поръчка
       item_total:
-        description: ~
-        name: ~
+        description: Цялостната стойност на поръчката
+        name: Продукти тотал
       landing_page:
         description: "Потребителят трябва да е посетил определена страница"
         name: "Целева страница"
       one_use_per_user:
-        description: ~
-        name: ~
+        description: Едно използване за потребител
+        name: Едно използване за потребител
       option_value:
-        description: ~
-        name: ~
+        description: Поръчката съдържа специфичен продукт с определен вариант
+        name: Вариант(и)
       product:
         description: "Поръчката има следният/ите продукт(и)"
         name: Продукт(и)
       taxon:
-        description: ~
-        name: ~
+        description: Поръчката съдържа продукт от определена категория
+        name: Категория/и
       user:
         description: "Достъпно само за определени потребители"
         name: Потребител
