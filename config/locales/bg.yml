@@ -464,7 +464,7 @@ bg:
     cannot_create_returns: "Не можете да върнете стока обратно преди поръчката да е пусната."
     cannot_perform_operation: "Желаното действие не може да бъде извършено."
     cannot_set_shipping_method_without_address: "Начин за доставка не може да бъде зададен без данни на клиента."
-    capture: Картина
+    capture: Взимане
     capture_events: ~
     card_code: "Код на карта CVV"
     card_number: "Номер на карта"
@@ -560,7 +560,7 @@ bg:
         site_id: ~
         token: ~
       jirafe_settings_updated: ~
-    date: ~
+    date: "Дата"
     date_completed: ~
     date_picker:
       first_day: 0
@@ -666,7 +666,7 @@ bg:
     google_analytics: "Google Аналитика"
     google_analytics_id: "Идентифиционен номер на аналитиката"
     guest_checkout: "Каса за гости"
-    guest_user_account: "Маркирай като гост."
+    guest_user_account: "Влез като гост."
     has_no_shipped_units: "Няма пратени единици."
     height: Височина
     hide_cents: "Hide pence"
@@ -874,7 +874,7 @@ bg:
         total: Общо
     order_not_found: ~
     order_number: "Код на поръчката %{number}"
-    order_processed_successfully: "Поръчката беше приета успешно"
+    order_processed_successfully: "Поръчката беше приета успешно и изпратена на вашия e-mail"
     order_resumed: ~
     order_state:
       address: Адрес
@@ -967,45 +967,45 @@ bg:
     promotion_action: ~
     promotion_action_types:
       create_adjustment:
-        description: ~
-        name: ~
+        description: Намалява стойността на цялата поръчката
+        name: Намалява цялата поръчка
       create_item_adjustments:
-        description: ~
-        name: ~
+        description: Намалява стойността на един продукт от поръчката
+        name: Нямалява цената продукт
       create_line_items:
-        description: ~
-        name: ~
+        description: Добавя определен продукт с количество към поръчката
+        name: Добавя продукт
       free_shipping:
-        description: ~
-        name: ~
-    promotion_actions: ~
+        description: Безплатна доставка
+        name: Безплатна доставка
+    promotion_actions: Промоционални действия
     promotion_form:
       match_policies:
-        all: ~
-        any: ~
-    promotion_rule: ~
+        all: Всички правила трябва да са изпълнени
+        any: Едно правило трябва да е изпълнено
+    promotion_rule: Правило за промоция
     promotion_rule_types:
       first_order:
-        description: ~
-        name: ~
+        description: Трябва да бъде първата поръчка на потребителя
+        name: Първа поръчка
       item_total:
-        description: ~
-        name: ~
+        description: Цялостната стойност на поръчката
+        name: Продукти тотал
       landing_page:
         description: "Потребителят трябва да е посетил определена страница"
         name: "Целева страница"
       one_use_per_user:
-        description: ~
-        name: ~
+        description: Едно използване за потребител
+        name: Едно използване за потребител
       option_value:
-        description: ~
-        name: ~
+        description: Поръчката съдържа специфичен продукт с определен вариант
+        name: Вариант(и)
       product:
         description: "Поръчката има следният/ите продукт(и)"
         name: Продукт(и)
       taxon:
-        description: ~
-        name: ~
+        description: Поръчката съдържа продукт от определена категория
+        name: Категория/и
       user:
         description: "Достъпно само за определени потребители"
         name: Потребител
@@ -1039,7 +1039,7 @@ bg:
     refund_reasons: ~
     refunded_amount: ~
     refunds: ~
-    register: "Регистрирай се като нов потребител"
+    register: "Регистрация"
     registration: Регистрация
     reimburse: ~
     reimbursed: ~
