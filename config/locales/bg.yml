@@ -362,7 +362,7 @@ bg:
     add_state: "Добави състояние"
     add_stock: "Добави стока"
     add_stock_management: "Добави управление на стока"
-    add_to_cart: "Добави в количката"
+    add_to_cart: "Добави"
     add_variant: "Добави вариант"
     additional_item: "Допълнителен артикул"
     address1: Адрес
