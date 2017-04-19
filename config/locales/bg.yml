@@ -917,15 +917,15 @@ bg:
     payment_processor_choose_link: ~
     payment_state: "Статус на плащането"
     payment_states:
-      balance_due: ~
-      checkout: ~
-      completed: ~
-      credit_owed: ~
+      balance_due: остава
+      checkout: checkout
+      completed: завършено
+      credit_owed: дължим кредит
       failed: провалено
-      paid: ~
-      pending: ~
-      processing: ~
-      void: ~
+      paid: платено
+      pending: изчакваща
+      processing: обработва се
+      void: void
     payment_updated: "Плащането бе обновено"
     payments: Плащания
     pending: ~
