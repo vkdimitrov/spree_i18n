@@ -918,14 +918,14 @@ bg:
     payment_state: "Статус на плащането"
     payment_states:
       balance_due: остава
-      checkout: checkout
+      checkout: изчакващо
       completed: завършено
       credit_owed: дължим кредит
       failed: провалено
       paid: платено
-      pending: изчакваща
-      processing: обработва се
-      void: void
+      pending: изчакващо
+      processing: обработващо се
+      void: провалено
     payment_updated: "Плащането бе обновено"
     payments: Плащания
     pending: ~
