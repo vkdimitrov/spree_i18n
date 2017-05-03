@@ -362,7 +362,7 @@ bg:
     add_state: "Добави състояние"
     add_stock: "Добави стока"
     add_stock_management: "Добави управление на стока"
-    add_to_cart: "Добави в количката"
+    add_to_cart: "Добави"
     add_variant: "Добави вариант"
     additional_item: "Допълнителен артикул"
     address1: Адрес
@@ -917,15 +917,15 @@ bg:
     payment_processor_choose_link: ~
     payment_state: "Статус на плащането"
     payment_states:
-      balance_due: ~
-      checkout: ~
-      completed: ~
-      credit_owed: ~
+      balance_due: остава
+      checkout: изчакващо
+      completed: завършено
+      credit_owed: дължим кредит
       failed: провалено
-      paid: ~
-      pending: ~
-      processing: ~
-      void: ~
+      paid: платено
+      pending: изчакващо
+      processing: обработващо се
+      void: провалено
     payment_updated: "Плащането бе обновено"
     payments: Плащания
     pending: ~
